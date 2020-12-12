@@ -1,1 +1,1 @@
-from .lib import version
+from .lib import version, hello

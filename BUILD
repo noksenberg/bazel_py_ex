@@ -5,7 +5,5 @@ py_binary(
     srcs = ["main.py"],
     deps = [
         "//lib:lib",
-        requirement("fastapi"),
-        requirement("uvicorn")
     ],
 )
